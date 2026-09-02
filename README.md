@@ -14,12 +14,12 @@ This repository contains a collection of laboratory assignments for the **ARTI40
 
 ## Repository Structure
 
-### [Lab 1: Python Programming Basics]
+### [Lab 1: Python Programming Basics] (./Lab1)
 * Foundational array manipulation using NumPy.
 * Matrix indexing, slicing, and sub-array extraction.
 * Loading, displaying, and saving images using OpenCV and PIL.
 
-### [Lab 2: Digital Image Fundamentals]
+### [Lab 2: Digital Image Fundamentals] (./Lab2)
 * **Sampling & Quantization:** Understanding spatial and intensity resolution downsampling.
 * **Arithmetic Operations:** Image addition, subtraction, and brightness adjustments.
 * **Logical/Set Operations:** Applying Bitwise AND, OR, XOR, and NOT for image masking and region extraction.
