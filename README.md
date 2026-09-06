@@ -1,4 +1,4 @@
-# Image Processing Labs (ARTI407)
+# Image Processing Labs (ARTI403)
 
 ## Overview
 This repository contains a collection of laboratory assignments for the **ARTI407 - Image Processing** course. The labs focus on bridging the gap between theoretical computer vision concepts and practical implementation using Python.
