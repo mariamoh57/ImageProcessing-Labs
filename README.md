@@ -24,6 +24,13 @@ This repository contains a collection of laboratory assignments for the **ARTI40
 * **Arithmetic Operations:** Image addition, subtraction, and brightness adjustments.
 * **Logical/Set Operations:** Applying Bitwise AND, OR, XOR, and NOT for image masking and region extraction.
 
+### [Lab 3: Geometric & Intensity Transformations](Image-Processing-Labs/Lab3/)
+* **Geometric Transformations:** Implementing uniform and non-uniform scaling, image rotation with proper canvas expansion, and affine shearing transformations.
+* **Intensity Transformations:** Applying point processing techniques for image enhancement, including:
+  * **Image Negative:** Using core NumPy matrix operations and PIL `ImageOps`.
+  * **Log Transformation:** Expanding dark pixel values for dynamic range compression.
+  * **Power-Law (Gamma) Correction:** Adjusting image brightness and contrast mathematically.
+
 *(More labs will be added as the course progresses...)*
 
 
