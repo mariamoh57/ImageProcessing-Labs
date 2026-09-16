@@ -30,6 +30,10 @@ This repository contains a collection of laboratory assignments for the **ARTI40
   * **Image Negative:** Using core NumPy matrix operations and PIL `ImageOps`.
   * **Log Transformation:** Expanding dark pixel values for dynamic range compression.
   * **Power-Law (Gamma) Correction:** Adjusting image brightness and contrast mathematically.
+ 
+### [Lab 4: Intensity Transformations & Spatial Filtering](Image-Processing-Labs/Lab4/)
+* **Image Segmentation (Thresholding):** Applying various threshold values (e.g., 50, 100, 150) to isolate subjects and convert grayscale images into binary masks based on pixel intensity.
+* **Spatial Domain Filtering:** Enhancing image characteristics directly using spatial neighborhood operations.
 
 *(More labs will be added as the course progresses...)*
 
