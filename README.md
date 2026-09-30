@@ -16,7 +16,7 @@ This repository contains a collection of laboratory assignments for the **ARTI40
 
 | Lab | Title | Key Concepts & Implemented Tasks |
 | :--- | :--- | :--- |
-| **[Lab 1](Image-Processing-Labs/Lab1/)** | Python Programming Basics | Foundational array manipulation using NumPy.<br>Matrix indexing, slicing, and sub-array extraction.<br>Loading, displaying, and saving images using OpenCV and PIL. |
+| **[Lab&nbsp;1](Image-Processing-Labs/Lab1/)** | Python Programming Basics | Foundational array manipulation using NumPy.<br>Matrix indexing, slicing, and sub-array extraction.<br>Loading, displaying, and saving images using OpenCV and PIL. |
 | **[Lab 2](Image-Processing-Labs/Lab2/)** | Digital Image Fundamentals | **Sampling & Quantization:** Spatial and intensity resolution downsampling.<br>**Arithmetic Operations:** Image addition, subtraction, and brightness adjustments.<br>**Logical Operations:** Bitwise AND, OR, XOR, and NOT for image masking and region extraction. |
 | **[Lab 3](Image-Processing-Labs/Lab3/)** | Geometric & Intensity Transformations | **Geometric:** Uniform and non-uniform scaling, image rotation, and affine shearing transformations.<br>**Intensity:** Point processing techniques including Image Negative, Log Transformation, and Power-Law (Gamma) Correction. |
 | **[Lab 4](Image-Processing-Labs/Lab4/)** | Intensity Transformations & Spatial Filtering | **Image Segmentation:** Thresholding to isolate subjects based on pixel intensity.<br>**Spatial Filtering:** Enhancing image characteristics directly using spatial neighborhood operations. |
