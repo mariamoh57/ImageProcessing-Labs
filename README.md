@@ -14,28 +14,17 @@ This repository contains a collection of laboratory assignments for the **ARTI40
 
 ## Repository Structure
 
-### [Lab 1: Python Programming Basics](Image-Processing-Labs/Lab1/)
-* Foundational array manipulation using NumPy.
-* Matrix indexing, slicing, and sub-array extraction.
-* Loading, displaying, and saving images using OpenCV and PIL.
-
-### [Lab 2: Digital Image Fundamentals](Image-Processing-Labs/Lab2/)
-* **Sampling & Quantization:** Understanding spatial and intensity resolution downsampling.
-* **Arithmetic Operations:** Image addition, subtraction, and brightness adjustments.
-* **Logical/Set Operations:** Applying Bitwise AND, OR, XOR, and NOT for image masking and region extraction.
-
-### [Lab 3: Geometric & Intensity Transformations](Image-Processing-Labs/Lab3/)
-* **Geometric Transformations:** Implementing uniform and non-uniform scaling, image rotation with proper canvas expansion, and affine shearing transformations.
-* **Intensity Transformations:** Applying point processing techniques for image enhancement, including:
-  * **Image Negative:** Using core NumPy matrix operations and PIL `ImageOps`.
-  * **Log Transformation:** Expanding dark pixel values for dynamic range compression.
-  * **Power-Law (Gamma) Correction:** Adjusting image brightness and contrast mathematically.
- 
-### [Lab 4: Intensity Transformations & Spatial Filtering](Image-Processing-Labs/Lab4/)
-* **Image Segmentation (Thresholding):** Applying various threshold values (e.g., 50, 100, 150) to isolate subjects and convert grayscale images into binary masks based on pixel intensity.
-* **Spatial Domain Filtering:** Enhancing image characteristics directly using spatial neighborhood operations.
+| Lab | Title | Key Concepts & Implemented Tasks |
+| :--- | :--- | :--- |
+| **[Lab 1](Image-Processing-Labs/Lab1/)** | Python Programming Basics | Foundational array manipulation using NumPy.<br>Matrix indexing, slicing, and sub-array extraction.<br>Loading, displaying, and saving images using OpenCV and PIL. |
+| **[Lab 2](Image-Processing-Labs/Lab2/)** | Digital Image Fundamentals | **Sampling & Quantization:** Spatial and intensity resolution downsampling.<br>**Arithmetic Operations:** Image addition, subtraction, and brightness adjustments.<br>**Logical Operations:** Bitwise AND, OR, XOR, and NOT for image masking and region extraction. |
+| **[Lab 3](Image-Processing-Labs/Lab3/)** | Geometric & Intensity Transformations | **Geometric:** Uniform and non-uniform scaling, image rotation, and affine shearing transformations.<br>**Intensity:** Point processing techniques including Image Negative, Log Transformation, and Power-Law (Gamma) Correction. |
+| **[Lab 4](Image-Processing-Labs/Lab4/)** | Intensity Transformations & Spatial Filtering | **Image Segmentation:** Thresholding to isolate subjects based on pixel intensity.<br>**Spatial Filtering:** Enhancing image characteristics directly using spatial neighborhood operations. |
+| **[Lab 5](Image-Processing-Labs/Lab5/)** | Spatial Filtering: Smoothing and Sharpening | **Sharpening:** Unsharp Masking technique and 3x3 Laplacian sharpening.<br>**Smoothing (Blurring):** 5x5 & 21x21 Gaussian filters, and Box filters of various sizes (3x3, 9x9, 15x15).<br>**Noise Reduction:** Comparing Median and Gaussian filters for Salt-and-Pepper noise removal.<br>**Edge Preservation:** Bilateral filtering. |
+| **[Lab 6](Image-Processing-Labs/Lab6/)** | Frequency Domain Filtering | **Fourier Transforms:** Converting images to the frequency domain using 2D FFT, inverse FFT, and frequency shifting.<br>**Frequency Filtering:** Mathematical implementation of the Laplacian operator in the frequency domain. |
 
 *(More labs will be added as the course progresses...)*
 
+---
 
 **Maria Mohammed Al-Sadiq   7FA1**  
