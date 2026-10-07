@@ -22,6 +22,7 @@ This repository contains a collection of laboratory assignments for the **ARTI40
 | **[Lab 4](Image-Processing-Labs/Lab4/)** | Intensity Transformations & Spatial Filtering | **Image Segmentation:** Thresholding to isolate subjects based on pixel intensity.<br>**Spatial Filtering:** Enhancing image characteristics directly using spatial neighborhood operations. |
 | **[Lab 5](Image-Processing-Labs/Lab5/)** | Spatial Filtering: Smoothing and Sharpening | **Sharpening:** Unsharp Masking technique and 3x3 Laplacian sharpening.<br>**Smoothing (Blurring):** 5x5 & 21x21 Gaussian filters, and Box filters of various sizes (3x3, 9x9, 15x15).<br>**Noise Reduction:** Comparing Median and Gaussian filters for Salt-and-Pepper noise removal.<br>**Edge Preservation:** Bilateral filtering. |
 | **[Lab 6](Image-Processing-Labs/Lab6/)** | Frequency Domain Filtering | **Fourier Transforms:** Converting images to the frequency domain using 2D FFT, inverse FFT, and frequency shifting.<br>**Frequency Filtering:** Mathematical implementation of the Laplacian operator in the frequency domain. |
+| **[Lab 7](Image-Processing-Labs/Lab7/)** | Image Segmentation and Feature Extraction | **Edge Detection:** Canny Edge Detection.<br>**Feature Extraction:** Harris Corner Detection.<br>**Image Segmentation:** Otsu's Thresholding (automatic bimodal thresholding). |
 
 *(More labs will be added as the course progresses...)*
 
